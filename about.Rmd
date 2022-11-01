@@ -1,0 +1,79 @@
+---
+title: "Junyan Zhu"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+Junyan (Trista) Zhu   
+jz3571@cumc.columbia.edu
+
+
+<image src='images/us2019.JPG' style = "width:70%">
+
+### **Education**
+##### Columbia University Mailman School of Publich Health *(2021 - Present)*
+
+* Master of Science in Biostatistics
+
+##### University of Wisconsin -- Madison *(2017 - 2020) *| Cumulative GPA: 3.98
+
+* Bachelor of Science in Biology
+* Bachelor of Science in Psychology
+
+### **Research and Project Experience**
+
+#### Peking Union Medical College Hospital MBC Lab – Beijing, China | July. 2021-Sep. 2021   
+##### *Research Assistant*
+* Aimed to find the plausible prognostic factors that might influence the survival time of metastatic breast cancer patients from censored patient cases
+* Imported more than 600 censored patient cases data into SPSS, randomly assigned them to two groups and analyzed each factor respectively by using the Chi-square test to ensure the validity of the random assignment
+* Used Log-rank test in K-M analysis to test the significance of single factors, then used Cox regres- sion to test the pre-significant single factor to run multi-factors analysis to exclude the false-positive results
+* Used R studio to build nomogram model to predict the effect of certain factor and to visualize data
+
+#### Application of Big Data in Traditional Chinese Medicine Project – Beijing, China | Jul. 2021-Sep. 2021   
+##### *Research Assistant*
+* Learned how knowledge graph was used in the field of TCM to form a visual graph to assist the di- agnose of TCM based on the data from previous cases
+* Used Python to extract entities and relationships between the entities from more than 1000 TCM pa- tient cases, generating files that record nodes, relationships and triples respectively
+* Imported nodes and relationships into Neo4j to build a visual graph of the data
+* Searched information about relations between symptom, herb and prescription in Neo4j by using Cy-pher language
+
+#### Anatomy Lab – UW Madison | Jan. 2020-May. 2020  
+##### *Research Member*
+
+* Aimed to find the effect of mental fatigue on physical performance
+* Discussed the thesis and hypothesis, designed the research procedure, and ran the participants by
+measuring maximum muscle strength and endurance to fatigue with a BSL Hand Dynamometer
+using electromyography (EMG)
+* Used a with-in group design to collect participants data in two levels, with an interval of a week be-
+tween each measure, and analyzed the collected data in Excel using two-tailed t-test to compare the mean of maximum amplitude and mean time to fatigue between two levels
+
+#### Cognitive Development & Communication Lab – UW Madison | Sep. 2019-Jan. 2021 
+
+##### *Research Assistant*
+
+* Participated in a project aiming to find whether physically interacting with manipulatives can help children learn the concept of equations more efficiently than just imagine interacting with manipula- tives by taking part in lab design, retrieved participants, ran participants and collected data
+  
+* Helped make filemaker to code participants’ data and coded data from another project with another RA to ensure the validity of coding
+* Set up the online-version test suited for children during the pandemic
+* Coded about 1,000 pictures related to the biological concept of phenotype and genotype in order to
+collect information about ways of picture-drawing that can benefit children’s learning better
+
+
+### **Work Experience**
+
+#### Sigma Medical Statistic Company, Nanjing, China Aug. 2021 Part-time Data
+
+##### *Analytic Assistant, Statistic Department*
+
+* Used SAS and SPSS to randomly assign participants to different groups and centers, ensuring the double-blindness of certain experiments
+* Put traditional paper form CRF in OpenClinica platform, checked the missing data values, and traced back to the clinical center where the data originated
+* Imported the Excel raw data into SAS for grouping and sorting, visualized data using tables and ana- lyzed data by using T-test, Wilcoxon rank-sum test, or ANOVA test
+
+### **Community Outreach Experience**  
+#### University of Wisconsin-Madison Hospital, Madison, WI | Sept. 2019-May. 2020
+##### *Volunteer*
+* Interacted with patients in the psychiatric unit in UW Hospital for 2 hours per week during weekends
+
+#### Zhenjiang First People’s Hospital, Zhenjiang, China | May. 2020-Jun. 2020   ##### *Shadowing*
+* Learned how doctors and nurses work in the emergency department
+* Watched surgeries in the various departments including gynecology, burns, otolaryngology and on-cology

@@ -17,5 +17,5 @@ This is my cat pijiu.
 Enjoy browsing through my website and have a wonderful day ~
 
 # Introduction
-This is Junyan Zhu's personal website. I am currently a first-year master student majoring in Biostatistics at Mailman School of Public School at Columbia University.   
+This is Junyan Zhu's personal website. I received BS degree in Biology and Psychology from [University of Wisconsin-madison](https://www.wisc.edu/). I am currently a first-year master student majoring in Biostatistics at [Mailman School of Public School](https://www.publichealth.columbia.edu/) at Columbia University.   
 You can learn about me [here](about.html)
