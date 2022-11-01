@@ -1,0 +1,21 @@
+---
+title: "Junyan Zhu's Personal Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+# Welcome
+
+<center>
+<image src='images/pijiu.jpeg' style = "width:85%">
+</center>
+
+
+I hope you like cats too : )  
+This is my cat pijiu.
+Enjoy browsing through my website and have a wonderful day ~
+
+# Introduction
+This is Junyan Zhu's personal website. I am currently a first-year master student majoring in Biostatistics at Mailman School of Public School at Columbia University.   
+You can learn about me [here](about.html)
