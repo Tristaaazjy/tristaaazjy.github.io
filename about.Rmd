@@ -70,9 +70,9 @@ collect information about ways of picture-drawing that can benefit children’s 
 
 ### **Work Experience**
 
-#### Sigma Medical Statistic Company, Nanjing, China Aug. 2021 Part-time Data
+#### Sigma Medical Statistic Company, Nanjing, China Aug. 2021
 
-##### *Analytic Assistant, Statistic Department*
+##### *Part-time Data Analytic Assistant, Statistic Department*
 
 * Used SAS and SPSS to randomly assign participants to different groups and centers, ensuring the double-blindness of certain experiments
 * Put traditional paper form CRF in OpenClinica platform, checked the missing data values, and traced back to the clinical center where the data originated
@@ -86,6 +86,7 @@ collect information about ways of picture-drawing that can benefit children’s 
 ##### *Volunteer*
 * Interacted with patients in the psychiatric unit in UW Hospital for 2 hours per week during weekends
 
-#### Zhenjiang First People’s Hospital, Zhenjiang, China | May. 2020-Jun. 2020   ##### *Shadowing*
+#### Zhenjiang First People’s Hospital, Zhenjiang, China | May. 2020-Jun. 2020  
+##### *Shadowing*
 * Learned how doctors and nurses work in the emergency department
 * Watched surgeries in the various departments including gynecology, burns, otolaryngology and oncology

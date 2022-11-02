@@ -44,7 +44,7 @@ Column {data-width=550}
 ```{r}
 tidy_noaa %>%
   mutate(text_label = str_c("Month:", month, "\nDate:", date)) %>% 
-  plot_ly(x = ~tmax, y = ~tmin, color = ~snow,
+  plot_ly(x = ~tmax, y = ~tmin, color = ~snwd,
           type = "scatter", mode = "markers",
           alpha = 0.5, text = ~text_label) %>% 
   layout(title = "Max Temperature vs. Min Temperature in January 2010",
@@ -63,7 +63,7 @@ Column {data-width=450}
 tidy_noaa %>% 
    plot_ly(y = ~tmax, color = ~date, 
            type = "box", colors = "viridis") %>% 
-    layout(title = "Max Temperature Across Station for Each Day in January 2010",
+    layout(title = "Distribution of Max Temperature for Each Day in January 2010",
          xaxis = list(title = "Day"),
          yaxis = list(title = "Max Temp (°C)"))
 ```
@@ -72,10 +72,10 @@ tidy_noaa %>%
 
 ```{r}
 tidy_noaa %>% 
-  plot_ly(x = ~date, y = ~snow,
+  plot_ly(x = ~date, y = ~snwd,
           type = "bar", color = "viridis") %>% 
-  layout(title = "Total Amount of Snow Across Station for Each Day in January 2010",
+  layout(title = "Total Amount of Snow Depth for Each Day in January 2010",
          xaxis = list(title = "Day"),
-         yaxis = list(title = "Snow Fall (cm)"))
+         yaxis = list(title = "Snow Depth (mm)"))
 ```
 
