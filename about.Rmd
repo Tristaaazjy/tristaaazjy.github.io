@@ -6,13 +6,16 @@ output:
     toc_float: true
 ---
 Junyan (Trista) Zhu   
-jz3571@cumc.columbia.edu
+(646)-256-9511  
+jz3571@cumc.columbia.edu  
+[Deparment of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  
+[Mailman School of Public School](https://www.publichealth.columbia.edu/) 
 
 
 <image src='images/us2019.JPG' style = "width:70%">
 
 ### **Education**
-##### Columbia University Mailman School of Publich Health *(2021 - Present)*
+##### Columbia University Mailman School of Publich Health *(2022 - Present)*
 
 * Master of Science in Biostatistics
 
@@ -20,6 +23,8 @@ jz3571@cumc.columbia.edu
 
 * Bachelor of Science in Biology
 * Bachelor of Science in Psychology
+
+
 
 ### **Research and Project Experience**
 
@@ -59,6 +64,10 @@ tween each measure, and analyzed the collected data in Excel using two-tailed t-
 collect information about ways of picture-drawing that can benefit children’s learning better
 
 
+
+
+
+
 ### **Work Experience**
 
 #### Sigma Medical Statistic Company, Nanjing, China Aug. 2021 Part-time Data
@@ -68,6 +77,9 @@ collect information about ways of picture-drawing that can benefit children’s 
 * Used SAS and SPSS to randomly assign participants to different groups and centers, ensuring the double-blindness of certain experiments
 * Put traditional paper form CRF in OpenClinica platform, checked the missing data values, and traced back to the clinical center where the data originated
 * Imported the Excel raw data into SAS for grouping and sorting, visualized data using tables and ana- lyzed data by using T-test, Wilcoxon rank-sum test, or ANOVA test
+
+
+
 
 ### **Community Outreach Experience**  
 #### University of Wisconsin-Madison Hospital, Madison, WI | Sept. 2019-May. 2020

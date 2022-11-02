@@ -12,10 +12,10 @@ output:
 </center>
 
 
-I hope you like cats too : )  
-This is my cat pijiu.
-Enjoy browsing through my website and have a wonderful day ~
+I hope you like cats too!  
+This is my cat Pijiu.  
+Enjoy browsing through my website and have a wonderful day!
 
 # Introduction
-This is Junyan Zhu's personal website. I received BS degree in Biology and Psychology from [University of Wisconsin-madison](https://www.wisc.edu/). I am currently a first-year master student majoring in Biostatistics at [Mailman School of Public School](https://www.publichealth.columbia.edu/) at Columbia University.   
-You can learn about me [here](about.html)
+This is Junyan Zhu's personal website. I received a BS degree in Biology and Psychology from [University of Wisconsin-madison](https://www.wisc.edu/) in 2020. I am currently a first-year master student majoring in Biostatistics at Mailman School of Public School at [Columbia University](https://www.columbia.edu/).   
+You can learn about me [here](about.html).
