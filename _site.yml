@@ -9,6 +9,8 @@ navbar:
       href: Dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<jz3571@cumc.columbia.edu>
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/junyan-zhu-5b8729255/
     - icon: fa-github fa-lg
       href: http://github.com/tristaaazjy/
 output:
