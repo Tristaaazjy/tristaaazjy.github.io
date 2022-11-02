@@ -12,7 +12,7 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/junyan-zhu-5b8729255/
     - icon: fa-github fa-lg
-      href: http://github.com/tristaaazjy/
+      href: https://github.com/Tristaaazjy/tristaaazjy.github.io
 output:
   html_document:
     theme: flatly
