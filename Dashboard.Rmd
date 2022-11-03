@@ -63,7 +63,7 @@ Column {data-width=450}
 tidy_noaa %>% 
    plot_ly(y = ~tmax, color = ~date, 
            type = "box", colors = "viridis") %>% 
-    layout(title = "Distribution of Max Temperature for Each Day in January 2010",
+    layout(title = "Distribution of Maxumum Temperature for Each Day in January 2010",
          xaxis = list(title = "Day"),
          yaxis = list(title = "Max Temp (°C)"))
 ```
@@ -72,10 +72,12 @@ tidy_noaa %>%
 
 ```{r}
 tidy_noaa %>% 
-  plot_ly(x = ~date, y = ~snow,
-          type = "bar", color = "viridis") %>% 
-  layout(title = "Total Amount of Snow Fall for Each Day in January 2010",
+  group_by(date) %>% 
+  summarise(mean_min = mean(tmin)) %>% 
+  plot_ly(x = ~date, y = ~mean_min,
+          type = "scatter", mode = "lines" ) %>% 
+  layout(title = "Average Minimum Temperature for Each Day in January 2010",
          xaxis = list(title = "Day"),
-         yaxis = list(title = "Snow Fall (mm)"))
+         yaxis = list(title = "Mean of Min Temp (°C)"))
 ```
 
